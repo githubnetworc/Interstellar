@@ -12,6 +12,7 @@ const config = {
 'Jaydan': "3187",
 'Anna': "1617",
 'Micah': "2590",
+'Maddox': "7491"
 },
 };
 
