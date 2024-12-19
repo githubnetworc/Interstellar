@@ -9,9 +9,9 @@ const config = {
   'kohen': "rick",
   'Tate': "4717",
 'Blaine': "3195",
-'Jaydan': "3187"
-'Anna': "1617"
-'Micah': "2590"
+'Jaydan': "3187",
+'Anna': "1617",
+'Micah': "2590",
 },
 };
 
