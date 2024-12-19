@@ -7,7 +7,8 @@ const config = {
   users: {
     // You can add multiple users by doing username: 'password'.
   'kohen': "rick",
-  'Tate': "4717"
+  'Tate': "4717",
+'Blaine': "3195",
 },
 };
 
