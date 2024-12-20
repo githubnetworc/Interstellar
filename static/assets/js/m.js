@@ -135,8 +135,8 @@ document.addEventListener("DOMContentLoaded", () => {
       icon: "/assets/media/favicon/schoology.png",
     },
     Gmail: { name: "Gmail", icon: "/assets/media/favicon/gmail.png" },
-    Clever: {
-      name: "Clever | Portal",
+    rickroll: {
+      name: "invisibility | Portal",
       icon: "/assets/media/favicon/clever.png",
     },
     Khan: {
