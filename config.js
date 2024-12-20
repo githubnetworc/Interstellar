@@ -18,6 +18,8 @@ const config = {
 'Jhale': "1674",
 'Jharden': "3414",
 'Jhamburger': "6737",
+'Tyson': "2821",
+'Peyton': "2538"
 },
 };
 
