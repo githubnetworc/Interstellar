@@ -14,7 +14,10 @@ const config = {
 'Micah': "2590",
 'Maddox': "7491",
 'Braeson': "8560",
-'MasonD': "5202"
+'MasonD': "5202",
+'Jhale': "1674",
+'Jharden': "3414",
+'Jhamburger': "6737",
 },
 };
 
