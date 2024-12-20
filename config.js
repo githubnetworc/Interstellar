@@ -13,7 +13,8 @@ const config = {
 'Anna': "1617",
 'Micah': "2590",
 'Maddox': "7491",
-
+'Braeson': "8560",
+'MasonD': "5202"
 },
 };
 
